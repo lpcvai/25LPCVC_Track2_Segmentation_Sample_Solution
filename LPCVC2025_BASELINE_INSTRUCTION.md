@@ -136,7 +136,7 @@ wget https://huggingface.co/xdecoder/X-Decoder/resolve/main/focalt_in21k_yfcc_gc
 wget https://huggingface.co/xdecoder/X-Decoder/resolve/main/xdecoder_focalt_last.pt
 
 # 3. LPCVC pre-trained baseline
-# Download from Google Drive: https://drive.google.com/file/d/1pk1HVDvQuGEyGwB4fP6y35mLWqY5xqOq
+# Download from Google Drive: https://drive.google.com/file/d/1A8N5drep04_AtCMggrza9dW4ER7ryzJZ
 ```
 
 **Note**: The LPCVC baseline model has modified layers compared to original X-Decoder, so loading all pretrained X-Decoder weights may not be possible.
